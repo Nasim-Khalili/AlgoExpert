@@ -3,4 +3,5 @@
 
 ## BinarySearch:
 
-- [binarysearch](/python/binarySearch.py/)
+- [Python](/python/binarySearch.py/)
+- [JavaScript](/javascript/binarySearch.js/)
