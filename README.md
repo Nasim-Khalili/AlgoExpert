@@ -22,3 +22,10 @@
 - [JavaScript](/javascript/FindClosestValueInBST.js/)
 
 <br />
+
+## nthfibonacci:
+
+- [Python](/python/nthfibonacci.py/)
+- [JavaScript](/javascript/nthfibonacci.js/)
+
+<br />
